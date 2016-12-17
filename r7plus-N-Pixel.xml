@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <r7plus>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161216-r7plus.zip</Filename>
+            <Filename>PixelDroid-N-v5.8.0-20161216-r7plus.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
