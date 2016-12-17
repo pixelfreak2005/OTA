@@ -2,6 +2,7 @@
 # OTA XML
 #
 https://github.com/pixelfreak2005/OTA/blob/PF/r7plus-N.xml
+#https://github.com/pixelfreak2005/OTA/blob/PF/r7plus-N-Pixel.xml
 release_type=Beta
 device_name=ro.rr.device
 #
