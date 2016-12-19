@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <r7plus>
-            <Filename>PixelDroid-N-v5.8.0-20161216-r7plus.zip</Filename>
+            <Filename>PixelDroid-N-v7.1.1_r6-20161219-r7plus.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
