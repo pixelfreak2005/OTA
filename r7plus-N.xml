@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <r7plus>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161216-r7plus.zip</Filename>
+            <Filename>RR-N-v5.8.0-20161226-r7plus-official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix build">https://www.androidfilehost.com/?fid=745425885120693984</RomUrl>
+                description="Download ResurrectionRemix build">https://www.androidfilehost.com/?fid=457095661767125129</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
