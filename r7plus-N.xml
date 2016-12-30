@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <r7plus>
-            <Filename>RR-N-v5.8.0-20161226-r7plus-official.zip</Filename>
+            <Filename>RR-N-v5.8.0-20161230-r7plus-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
