@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <r7plus>
-            <Filename>PF-N-v7.1.1_r6-20161223-r7plus-unofficial.zip</Filename>
+            <Filename>PF-N-v7.1.1_r6-20170105-r7plus-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download PixelDroid Build">https://www.androidfilehost.com/?fid=529152257862690310</RomUrl>
+                description="Download PixelDroid Build">https://www.androidfilehost.com/?fid=457095661767127659</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
